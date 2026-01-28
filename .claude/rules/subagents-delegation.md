@@ -71,7 +71,7 @@
 - Mobile-first design patterns
 - Component visual polish and refinement
 
-**Trigger keywords:** component, Livewire, Volt, Blade, Alpine, template, form, modal, dropdown, navigation, view, frontend, UI, interactive, real-time, Tailwind, styling, responsive, mobile, design, visual, colors, spacing, accessibility, WCAG, a11y, animation, Flux
+**Trigger keywords:** component, Livewire, Blade, template, form, modal, dropdown, navigation, view, frontend, UI, interactive, real-time, Tailwind, styling, responsive, mobile, design, visual, colors, spacing, accessibility, WCAG, a11y, animation, Flux
 
 ---
 
@@ -441,7 +441,7 @@ Before ANY implementation work, ask yourself:
 ## Project Context
 
 - **Framework:** Laravel 12 with Livewire 4
-- **Frontend:** Blade, Livewire 4, Alpine.js, Tailwind CSS 4, Flux UI
+- **Frontend:** Blade, Livewire 4 (includes Alpine.js), Tailwind CSS 4, Flux UI
 - **Database:** MySQL/PostgreSQL
 - **Testing:** Pest, PHPUnit, Playwright
 - **Standards:** PSR-12, SOLID principles, WCAG 2.1 AA

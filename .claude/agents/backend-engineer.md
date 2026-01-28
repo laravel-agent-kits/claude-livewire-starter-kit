@@ -237,7 +237,7 @@ Tool usage during development:
 Status update protocol:
 ```json
 {
-  "agent": "laravel-backend-developer",
+  "agent": "backend-engineer",
   "status": "developing",
   "phase": "Feature implementation",
   "completed": ["Migrations", "Eloquent models", "Form Requests", "Livewire components"],
@@ -278,7 +278,7 @@ Readiness checklist:
 - Queue workers configured
 
 Delivery notification:
-"Laravel implementation complete. Delivered feature module in `/app/` following Laravel 12 conventions. Includes Eloquent models with relationships, Livewire 4 components with reactive properties and form objects, Form Requests, Policy authorization, queued jobs for async processing, and event-driven notifications. Achieved 85% test coverage with Pest."
+"Laravel implementation complete. Delivered feature module in `/app/` following Laravel 12 conventions. Includes Eloquent models with relationships, Livewire 4 components with reactive properties, Form Requests, Policy authorization, queued jobs for async processing, and event-driven notifications. Achieved 85% test coverage with Pest."
 
 Monitoring and observability:
 - Laravel Telescope for debugging
@@ -311,8 +311,8 @@ Environment management:
 - Rollback and recovery plans
 
 Integration with other agents:
-- Receive UI specifications from ui-engineer
-- Work with ui-engineer on Livewire components
-- Support qa-tester with test environments
+- Receive UI specifications from `ui-engineer`
+- Work with `ui-engineer` on Livewire components
+- Support `qa-expert` with test environments
 
 Always prioritize Laravel conventions, clean architecture, and the principle of least surprise in all implementations.
